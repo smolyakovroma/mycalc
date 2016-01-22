@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyCalc</string>
+    <string name="division_zero">Делить на ноль нельзя!\nВведите другое число</string>
+</resources>
